@@ -28,7 +28,8 @@ A vertical shooting game built entirely in **8086 Assembly Language** using the 
 
 ## Demo
 
-![Gameplay Preview](demo.gif)
+![IMG_20250725_192028](https://github.com/user-attachments/assets/0eb864f5-dd75-4529-b5ef-578ac6a6b3b5)
+
 
 ## References
 
